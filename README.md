@@ -1,31 +1,47 @@
-#  Scripts_en_Python
+# Codigos_en_Perl
 
-¡Bienvenido a **Scripts_en_Python**!  
-Una colección extensa de scripts en **Python**, ideales para practicar lógica, estructuras, algoritmos y mucho más.
-
----
-
-##  Contenido del repositorio
-
-Este repositorio incluye una serie de archivos, por ejemplo:
-
-Cada uno es un script independiente que te permitirá trabajar sobre:
-
-- Sintaxis y tipos de datos en Python
-- Estructuras de control (`if`, `for`, `while`)
-- Funciones y flujo modular
-- Manipulación de colecciones: listas, diccionarios, cadenas
-- Algoritmos y resolución de problemas clásicos
+Repositorio con ejercicios y códigos desarrollados en **Perl**.
 
 ---
 
-##  ¿Cómo ejecutar los ejercicios?
+## Descripción
 
-1. Asegúrate de tener instalado Python (recomendado Python 3.x).
-2. Clona o descarga el repositorio:
-   ```bash
-   git clone https://github.com/UrbanoTrejoOrlando/Scripts_en_Python.git
-   cd Scripts_en_Python
-3. Ejecuta el ejercicio que quieras con:
-  ```bash
-  python EjercicioX.py
+Este repositorio contiene diversos ejercicios (`Ejercicio1.pl`, `Ejercicio2.pl`, …) escritos en el lenguaje de programación **Perl**.  
+Tiene como objetivo servir como colección de ejemplos prácticos para aprender, practicar y revisar conceptos del lenguaje Perl.
+
+---
+
+## Estructura del repositorio
+
+- Cada archivo `.pl` corresponde a un ejercicio distinto.
+- Los ejercicios están numerados secuencialmente: `Ejercicio1.pl`, `Ejercicio2.pl`, …, llegando al menos hasta el número 68.
+- Hay un archivo de licencia `LICENSE` con licencia **GPL-3.0**.
+- También incluye un archivo `README.md` (éste que estás ajustando ahora) en el directorio raíz.
+
+---
+
+## 🛠 Requisitos
+
+- Perl (versión recomendada: cualquier versión relativamente reciente, por ejemplo 5.x).
+- Un terminal o consola para ejecutar los scripts `.pl`.
+- (Opcional) Un editor de texto o IDE que soporte resaltado de Perl.
+
+---
+
+## Instalación y ejecución
+
+Primero clona el repositorio en tu equipo:
+
+```bash
+git clone https://github.com/UrbanoTrejoOrlando/Codigos_en_Perl.git
+```
+
+Accede al directorio del repositorio:
+```bash
+cd Codigos_en_Perl
+```
+
+Después puedes ejecutar cualquiera de los ejercicios con:
+```bash
+perl EjercicioN.pl
+```
